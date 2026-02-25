@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Sanjana Jadhav — World‑class Personal Website (React + Vite)
 
 A modern, high‑performance, single‑page portfolio built from Sanjana’s résumé:
@@ -116,5 +114,4 @@ Replace these as you like.
 - Add a “Blog” section powered by Markdown (still static).
 
 Enjoy shipping. ✨
->>>>>>> 36a06a982fccf72ac72dbc7add98febcecd75b50
 # website
